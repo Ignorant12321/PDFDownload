@@ -23,6 +23,10 @@ ReadMe
 
 ![PDF文件的下载限制](ReadMe.assets/PDF文件的下载限制.png)
 
+后续：
+
+- 该项目已经过时，请切换到下面的项目【2026/09/23】[Ignorant12321/ketangpai-FileDownload: 课堂派文件下载，包括互动课件、资料区文件、不可下载的文件](https://github.com/Ignorant12321/ketangpai-FileDownload)
+
 # 使用说明
 
 ## 获取文件的解析地址
